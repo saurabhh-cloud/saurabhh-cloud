@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saurabh Singh 👋
 
-<!--
-**saurabhh-cloud/saurabhh-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Sc. (Hons) Mathematics student at Ram Lal Anand College, University of Delhi, with a Computer Science minor.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Frontend development: HTML, CSS, JavaScript
+- Python, including object-oriented programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working toward
+- Competing in hackathons
+- Contributing to open source, with the goal of programs like Google Summer of Code
+
+## Projects
+- [Calculator](https://github.com/saurabhh-cloud/calculator): a calculator built with HTML, CSS and JavaScript ([live demo](https://saurabhh-cloud.github.io/calculator/cal2.html))
+- [Portfolio website](https://saurabhh-cloud.github.io): my personal portfolio
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/saurabh-singh-2a221843a/)
+- Email: saurabh.maths.du@gmail.com
